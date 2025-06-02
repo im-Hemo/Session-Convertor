@@ -10,13 +10,10 @@ Check our [Telebot version here](https://github.com/im-Hemo/Pinterest-telegram-b
 
 ## Features
 
-- Download Pinterest **images**, **videos**, and **carousel posts**
-- Smart handling of pin URLs (even short ones)
-- Clean and organized download system
-- Beautiful inline keyboard with developer links
-- Fast, concurrent downloads with async/await in aiogram
+• 🔄 Convert Telegram session strings between **Pyrogram** and **Telethon**  
+• ✅ Validate session strings before conversion  
+• 🤖 User-friendly bot interface with inline buttons  
 
----
 
 ## How to run
 
