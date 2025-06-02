@@ -10,9 +10,9 @@ Check our [Telebot version here](https://github.com/im-Hemo/Pinterest-telegram-b
 
 ## Features
 
-• 🔄 Convert Telegram session strings between **Pyrogram** and **Telethon**  
-• ✅ Validate session strings before conversion  
-• 🤖 User-friendly bot interface with inline buttons  
+• Convert Telegram session strings between **Pyrogram** and **Telethon**  🔄
+• Validate session strings before conversion ✅
+• User-friendly bot interface with inline buttons 🤖
 
 
 ## How to run
