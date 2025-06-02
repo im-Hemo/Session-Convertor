@@ -1,8 +1,6 @@
-# String Session Converter ✓
+# String Session Converter Bot 🔁
 
-A powerful Telegram bot to download **Pinterest** images and videos just by sending the link.  
-Built with Python using the **Aiogram** library.
-Check our [Telebot version here](https://github.com/im-Hemo/Pinterest-telegram-bot.git) 🎖️
+A powerful and fast Telegram bot that allows you to convert string sessions between Telethon and Pyrogram — in both directions!
 
 ![Preview](https://i.ibb.co/0yzZHrjc/image.jpg)
 
