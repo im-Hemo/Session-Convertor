@@ -16,17 +16,17 @@ A powerful and fast Telegram bot that allows you to convert string sessions betw
 ## How to run
 
 ```bash
-git clone https://github.com/im-Hemo/Pinterest-Aiogram-bot.git
+git clone https://github.com/im-Hemo/Session-Convertor.git
 ```
 ```bash
-cd Pinterest-Aiogram-bot
+cd Session-Convertor
 ```
-put your bot token in Pinterest.py line 23 ✓
+put your bot token in Pinterest.py line 11 ✓
 ```bash
 pip install -r requirements.txt
 ```
 ```bash
-python3 Pinterest_Aiogram.py
+python3 Session-Converter.py
 ```
 
 
