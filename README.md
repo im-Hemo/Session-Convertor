@@ -2,14 +2,16 @@
 
 A powerful and fast Telegram bot that allows you to convert string sessions between Telethon and Pyrogram — in both directions!
 
-![Preview](https://i.ibb.co/0yzZHrjc/image.jpg)
+![Preview](https://i.ibb.co/d0LKydZM/image.jpg)
 
 ---
 
 ## Features
 
 • Convert Telegram session strings between **Pyrogram** and **Telethon**  🔄
+
 • Validate session strings before conversion ✅
+
 • User-friendly bot interface with inline buttons 🤖
 
 
