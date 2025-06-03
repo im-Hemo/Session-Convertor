@@ -8,9 +8,9 @@ A powerful and fast Telegram bot that allows you to convert string sessions betw
 
 ## Features
 
-• Convert Telegram session strings between **Pyrogram** and **Telethon**  🔄
+• Convert string session between **Pyrogram** and **Telethon**  🔄
 
-• Validate session strings before conversion ✅
+• Validate string session before conversion ✅
 
 • User-friendly bot interface with inline buttons 🤖
 
