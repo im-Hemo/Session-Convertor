@@ -23,7 +23,7 @@ git clone https://github.com/im-Hemo/Session-Convertor.git
 ```bash
 cd Session-Convertor
 ```
-put your bot token in Pinterest.py line 11 ✓
+put your bot token in Session-Converter.py line 11 ✓
 ```bash
 pip install -r requirements.txt
 ```
